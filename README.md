@@ -1,17 +1,14 @@
 # glymedCypress
 
 
-clone this repo
+1. Clone this repo
+2. Go to Project directory & open terminal 
 
-Go to Project directory open terminal 
+    **run npm install**
+3. To open cypress :
 
-run npm install
+    **yarn cypress open**
+4. To run tests in headless mode:
 
-To open cypress :
-
-yarn cypress open
-
-To run tests in hedless mode:
-
-yarn cypress run
+    **yarn cypress run**
 
