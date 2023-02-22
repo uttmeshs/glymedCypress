@@ -1,0 +1,6 @@
+import './proUserLogin.cy'
+import './retailUserLogin.cy'
+import './schoolUserLogin.cy'
+import './buyProductByProUser.cy'
+import './buyProductByRetailUser.cy'
+import './buyProductBySchoolUser.cy'
