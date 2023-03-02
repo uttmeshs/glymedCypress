@@ -1,9 +1,9 @@
 # dependencies
-/node_modules
 /.pnp
 .pnp.js
 /cypress/videos
 /cypress/screenshots
+./node_modules
 
 # testing
 /coverage
