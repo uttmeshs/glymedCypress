@@ -4,7 +4,7 @@
 1. Clone this repo
 2. Go to Project directory & open terminal 
 
-    **run npm install**
+    ** npm install cypress**
 3. To open cypress :
 
     **yarn cypress open**
